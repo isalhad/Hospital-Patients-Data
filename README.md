@@ -48,3 +48,6 @@ The dashboard contains the following visualizations:
 - Patients by Gender: Shows the distribution of male and female patients.
 - Interactive Filters: Allows users to filter the dashboard by year, department and diagnosis.
 
+### Dashboard Preview
+
+
