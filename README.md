@@ -27,4 +27,13 @@ The main objectives of this project are:
 - Slicers
 - Data Visualization
 
+### Dashboard Features
+
+| KPI | Result |
+|:---|---:|
+| Total Number of Patients | 1,000 |
+| Total Bill Amount | $8,053,143 |
+| Average Stay Length | 4.8 |
+| Paid Amount | $4,568,527 |
+| Average Insurance | 75% |
 
