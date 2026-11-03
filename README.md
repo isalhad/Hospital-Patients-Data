@@ -29,6 +29,7 @@ The main objectives of this project are:
 
 ### Dashboard Features
 
+The dashboard provides the following Key Performance Indicators (KPIs):
 | KPI | Result |
 |:---|---:|
 | Total Number of Patients | 1,000 |
@@ -36,4 +37,6 @@ The main objectives of this project are:
 | Average Stay Length | 4.8 |
 | Paid Amount | $4,568,527 |
 | Average Insurance | 75% |
+
+
 
