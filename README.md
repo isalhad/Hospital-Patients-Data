@@ -15,6 +15,16 @@ The main objectives of this project are:
 - To identify the distribution of patients across hospital departments.
 - To examine payment status and financial information.
 - To develop an interactive dashboard using Microsoft Excel.
-- To present meaningful insights through data visualization
+- To present meaningful insights through data visualization.
+
+### Tools and Technologies Used
+
+- Microsoft Excel
+- Data Cleaning
+- Pivot Tables
+- Pivot Charts
+- Excel Formulas and Functions
+- Slicers
+- Data Visualization
 
 
