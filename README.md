@@ -38,5 +38,13 @@ The dashboard provides the following Key Performance Indicators (KPIs):
 | Paid Amount | $4,568,527 |
 | Average Insurance | 75% |
 
+### Dashboard Visualizations
 
+The dashboard contains the following visualizations:
+- Admission Trend Over Time: Shows patient admission patterns across months and quarters.
+- Patients by Department: Shows the distribution of patients across hospital departments.
+- Patients by Age Group: Displays the distribution of patients across different age categories.
+- Payment Status: Illustrates the proportion of paid, partially paid and pending payments.
+- Patients by Gender: Shows the distribution of male and female patients.
+- Interactive Filters: Allows users to filter the dashboard by year, department and diagnosis.
 
