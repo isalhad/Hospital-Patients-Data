@@ -52,5 +52,14 @@ The dashboard contains the following visualizations:
 
 ![image alt](https://github.com/isalhad/Hospital-Patients-Data/blob/345b3a116231b695d04cc93a90a4828d2a3af5d3/My%20github%20image.png)
 
+### Key Insights and Findings
 
+The dashboard provides several important observations about hospital operations:
+- The General Department recorded the highest number of patients, with 252, while Neurology recorded the lowest, with 94.
+- Patients aged between 51 and 65 constituted the largest age group, with 235 patients.
+- The payment analysis indicates that 57% of payments were completed, while 17% were partially paid and 26% remained pending.
+- Female patients accounted for a slightly higher proportion of the patient population than male patients.
+- Patient admissions fluctuated across the observed months of 2024 and 2025.
+- The dashboard recorded a total billed amount of $8,053,143, with $4,568,527 displayed as paid.
+- These findings demonstrate how dashboard-based analysis can help summarize hospital activities and highlight areas that may require further investigation.
 
