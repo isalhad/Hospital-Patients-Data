@@ -63,3 +63,19 @@ The dashboard provides several important observations about hospital operations:
 - The dashboard recorded a total billed amount of $8,053,143, with $4,568,527 displayed as paid.
 - These findings demonstrate how dashboard-based analysis can help summarize hospital activities and highlight areas that may require further investigation.
 
+### Conclusion
+
+This project demonstrates the practical application of data analytics and visualization in healthcare management.
+By consolidating patient information, admission trends, departmental statistics, demographic distributions, and payment indicators into an interactive dashboard, the project provides a structured approach to monitoring hospital performance.
+The experience strengthened my interest in data analytics, statistical interpretation, and the use of data visualization to communicate meaningful insights and support evidence-based decision-making.
+
+### Author
+
+Isa Haroun Hadi is a Mathematics graduate currently pursuing an MSc in Mathematics (In View) at Taraba State University. He serves as the Deputy Coordinator at Al-Iman School, Jalingo, with experience in school administration and organizational coordination.
+
+He is passionate about Data Analytics, Statistics, Mathematical Modelling, and Research, with a strong interest in applying analytical skills to solve real-world problems.
+
+Location: Nigeria
+
+Professional Position: Deputy Coordinator, Al-Iman School, Jalingo.
+
