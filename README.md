@@ -50,7 +50,7 @@ The dashboard contains the following visualizations:
 
 ### Dashboard Preview
 
-![image alt](
+![image alt](https://github.com/isalhad/Hospital-Patients-Data/blob/345b3a116231b695d04cc93a90a4828d2a3af5d3/My%20github%20image.png)
 
 
 
